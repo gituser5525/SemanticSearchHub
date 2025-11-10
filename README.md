@@ -38,7 +38,7 @@ This system allows you to ingest documents, perform semantic search, and **chat 
 
 ## 📂 **Project Structure**
 
-```
+```text
 
 SemanticSearchHub/
 │
@@ -57,7 +57,7 @@ SemanticSearchHub/
 ├── .env                      # Optional environment configuration
 └── venv/                     # Python virtual environment
 
-````
+```
 
 ---
 
