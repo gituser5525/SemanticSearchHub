@@ -8,3 +8,5 @@ documents/
 *.log
 *.gguf
 *.safetensors
+!requirements.txt
+!all_requirements.txt
